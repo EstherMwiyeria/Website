@@ -1,0 +1,12 @@
+#heading{
+    font-weight: bold;
+    font-style: italic;
+}
+.head1{
+    border: dashed;
+}
+.head2{
+    border: solid red;
+    margin: 5%;
+    padding: 20px;
+}
